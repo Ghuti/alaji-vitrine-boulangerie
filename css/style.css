@@ -1,0 +1,40 @@
+.img {
+  width: 100%;
+}
+
+.div-img {
+  background: url('../img/pain.jpg') no-repeat center;
+  background-size: cover;
+  height: 400px;
+  width: 100%;
+}
+
+.bg-perso-nav {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.title {
+  padding-top: 9rem;
+  text-align: center;
+  font-size: 5rem;
+}
+
+.sous-title {
+  font-size: 3rem;
+}
+
+.a-nav {
+  font-size: 1.5rem;
+}
+
+body {
+  background: rgba(0, 0, 0, 0.4);
+  color: #fff;
+  font-family: 'Lobster', cursive;
+}
+
+
+.my-card-img {
+  width: 100%;
+  height: 100%;
+}
