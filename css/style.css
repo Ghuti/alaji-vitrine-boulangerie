@@ -5,12 +5,13 @@
 .div-img {
   background: url('../img/pain.jpg') no-repeat center;
   background-size: cover;
+  color: #fff;
   height: 400px;
   width: 100%;
 }
 
 .bg-perso-nav {
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(205, 160, 71, 0.5);
 }
 
 .title {
@@ -28,13 +29,19 @@
 }
 
 body {
-  background: rgba(0, 0, 0, 0.4);
-  color: #fff;
+  background: rgba(255, 210, 121, 0.7);
+  color: #000;
   font-family: 'Lobster', cursive;
 }
 
+.img-class {
+  align-items: center;
+  height: 400px;
+  width: 100%;
+  display: flex;
+  overflow: hidden;
+}
 
 .my-card-img {
   width: 100%;
-  height: 100%;
 }
